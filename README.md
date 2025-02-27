@@ -1,2 +1,2 @@
 # ini
-A dead simpli ini editor in go
+A dead simple ini editor in go
